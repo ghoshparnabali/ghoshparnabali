@@ -9,7 +9,8 @@
 ## 🚀 About Me
 I am a passionate Life Sciences postgraduate bridging the gap between **wet-lab experimental research** and **dry-lab computational workflows**. With a foundational background in Botany (M.Sc.), my expertise spans interdisciplinary experimental research under GLP standards, nanomaterial biosynthesis, microbial assays, and NGS/RNA-Seq data analysis. I specialize in integrating laboratory findings with data-driven computational interpretation to support translational and genomics-focused research outcomes.  
 
-- 🧪 **Research Interests:** Drug development from Biosynthesized Nanoparticles, Translational Genomics, Next-Generation Sequencing (NGS), RNA-Seq Data Analysis, and Computer-Aided Drug Design (CADD)
+
+🔬 **Research Interests:** Drug development from Biosynthesized Nanoparticles, Translational Genomics, Next-Generation Sequencing (NGS), RNA-Seq Data Analysis, and Computer-Aided Drug Design (CADD)
 
 ---
 
