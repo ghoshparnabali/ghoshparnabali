@@ -24,7 +24,7 @@ I am a passionate Life Sciences postgraduate bridging the gap between **wet-lab 
 * **Databases:** NCBI, Ensembl, PDB, UniProt, Expasy
 
 ### 📊 Data Science & Analytics
-* **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), R (RStudio)
+* **Languages:** RStudio (GEOquery, DESeq2, ashr, ggplot2, pheatmap), Python (Pandas, NumPy, Matplotlib, Seaborn)
 * **Development Environments & Platforms:** Linux/Bash (Basic), Galaxy Platform, Visual Studio Code, Google Colab, Kaggle
 * **Data Visualization:** Power BI, Tableau, MS Excel
 
@@ -35,7 +35,13 @@ I am a passionate Life Sciences postgraduate bridging the gap between **wet-lab 
 
 ---
 
-## 📁 Highlighted Projects & Simulations
+## 📁 Professional Projects
+
+### 💻 [SARS-CoV-2 RNA-Seq Differential Gene Expression (DGE) Analysis Across Multiple Cell-lines](https://github.com/ghoshparnabali/SARS-CoV-2_RNA-Seq_Differential-Gene-Expression_Analysis)
+*	Conducted a full RNA-seq differential gene expression analysis on the GSE147507 dataset, comparing SARS-CoV-2 infected vs mock-treated samples across four respiratory cell lines — NHBE, A549, A549-ACE2, and Calu3, using DESeq2 in RStudio with fold-change shrinkage for more reliable results. 
+*	Quality control visualisations, including PCA, sample distance heatmaps, and dispersion plots, confirmed that replicates were consistent, cell lines separated cleanly, and the statistical model fitted the data well before any differential testing was performed. 
+*	SARS-CoV-2 infection produced strikingly different outcomes across different cell lines. NHBE showed broad gene suppression (22 of 25 significant genes were switched off), while A549-ACE2 produced 658 differentially expressed genes, nearly 30 times more than the ACE2-low A549 parent line, highlighting how critical receptor availability is to the scale of the host response. 
+*	These patterns were consistently reflected across volcano plots, MA plots, and expression heatmaps, which together showed sparse and suppressive responses in primary airway cells versus large, predominantly activating responses in the ACE2-expressing models.
 
 ### 🔬 LifeArc Research Associate Virtual Simulation (Forage)
 * Optimized a fibroblast-to-sensory-neuron differentiation protocol.
