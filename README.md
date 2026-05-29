@@ -68,4 +68,4 @@ I am a passionate Life Sciences postgraduate bridging the gap between **wet-lab 
 
 ## 🤝 Connect with Me
 * ✉️ **Email:** [ghoshparnabali@gmail.com](mailto:ghoshparnabali@gmail.com)
-* 💼 **LinkedIn:** [www.linkedin.com/in/parnabali-ghosh-295091114](https://www.linkedin.com/in/parnabali-ghosh-295091114/)
+* 💼 **LinkedIn:** [www.linkedin.com/in/parnabali-ghosh-295091114](https://in.linkedin.com/in/parnabali-ghosh-295091114)
