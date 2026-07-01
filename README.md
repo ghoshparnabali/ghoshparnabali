@@ -37,7 +37,13 @@ I am a passionate Life Sciences postgraduate bridging the gap between **wet-lab 
 
 ## 📁 Professional Projects
 
-### 💻 [SARS-CoV-2 RNA-Seq Differential Gene Expression (DGE) Analysis Across Multiple Cell-lines](https://github.com/ghoshparnabali/SARS-CoV-2_RNA-Seq_Differential-Gene-Expression_Analysis)
+### 💻 [Identification of Somatic Variants in Breast Cancer Whole-Exome Sequencing (WES) Data](https://github.com/ghoshparnabali/Identification-of-Somatic-Variants-in-Breast-Cancer-Whole-Exome-Sequencing-WES-Data.git)
+* Built an end-to-end tumour-only somatic variant-calling pipeline for triple-negative breast cancer whole-exome data (2026 TNBC cohort, PRJNA1422845), implementing the full GATK Best Practices workflow: BWA-MEM alignment, duplicate marking, Base Quality Score Recalibration, and Mutect2 tumour-only calling with a gnomAD germline resource, Panel of Normals, and orientation-bias/contamination modelling.
+* Engineered the analysis for reproducibility and efficiency by subsetting the GRCh38 reference to chromosomes 13 and 17 (BRCA2, BRCA1, TP53), and annotating variants locally with snpEff, then prioritising against a hereditary breast-cancer gene panel using a gnomAD rarity filter to compensate for the absence of a matched normal.
+* Identified candidate somatic loss-of-function mutations in TP53 in 2 of 3 tumours — a nonsense (p.Glu310*) and a frameshift (p.Gly69fs) variant, both HIGH-impact and absent from gnomAD — consistent with TP53's role as the dominant, characteristically truncating driver in TNBC, validating the pipeline against known disease biology.
+* Documented the workflow as a reproducible, well-annotated Jupyter notebook with integrated QC (FastQC/MultiQC), explicit handling of the tumour-only design's limitations, and transparent reporting of candidate variants and per-sample results.
+
+### 🦠 [SARS-CoV-2 RNA-Seq Differential Gene Expression (DGE) Analysis Across Multiple Cell-lines](https://github.com/ghoshparnabali/SARS-CoV-2_RNA-Seq_Differential-Gene-Expression_Analysis)
 *	Conducted a full RNA-seq differential gene expression analysis on the GSE147507 dataset, comparing SARS-CoV-2 infected vs mock-treated samples across four respiratory cell lines — NHBE, A549, A549-ACE2, and Calu3, using DESeq2 in RStudio with fold-change shrinkage for more reliable results. 
 *	Quality control visualisations, including PCA, sample distance heatmaps, and dispersion plots, confirmed that replicates were consistent, cell lines separated cleanly, and the statistical model fitted the data well before any differential testing was performed. 
 *	SARS-CoV-2 infection produced strikingly different outcomes across different cell lines. NHBE showed broad gene suppression (22 of 25 significant genes were switched off), while A549-ACE2 produced 658 differentially expressed genes, nearly 30 times more than the ACE2-low A549 parent line, highlighting how critical receptor availability is to the scale of the host response. 
