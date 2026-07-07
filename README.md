@@ -39,7 +39,7 @@ I am a passionate Life Sciences postgraduate bridging the gap between **wet-lab 
 ### 🧪 Wet Lab Skills
 * Sterile & Aseptic Techniques, Sample Preparation & Analysis, Microbial Culture Maintenance, Light microscopy and computer-assisted biological sample visualization, Morphological assessment & strain verification
 * Nanoparticle Biosynthesis, UV-Visible Spectroscopy, Antibacterial & Bioassay Techniques
-* Interdisciplinary Research, Experiment Designing, Scientific Writing & Documentation, SOP Compliance, GLP Practices
+* Interdisciplinary Research, Experimental Design, Scientific Writing & Documentation, SOP Compliance, Standard Laboratory Practices
 
 ---
 
